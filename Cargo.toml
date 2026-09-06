@@ -5,6 +5,7 @@ edition = "2024"
 
 [dependencies]
 rand = "0.8.5"
+trpl = "0.3.0"
 
 [profile.dev]
 opt-level = 0
